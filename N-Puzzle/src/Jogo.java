@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-public class Jogo extends Tabuleiro {
+public class Jogo  {
 
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
